@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### Stats
-https://github-readme-stats.vercel.app/api?username=franckies&show_icons=true&line_height=30
 
+![franckies' github stats](https://github-readme-stats.vercel.app/api?username=franckies&show_icons=true&line_height=30)
 ### Contacts
 <a href="https://www.linkedin.com/in/francesco-semeraro-09b305190/">
     <img alt="FS | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
