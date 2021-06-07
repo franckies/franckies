@@ -2,7 +2,7 @@
 
 ### Stats
 
-![franckies' github stats](https://github-readme-stats.vercel.app/api?username=franckies&show_icons=true&line_height=30)
+![franckies' github stats](https://github-readme-stats.vercel.app/api?username=franckies&show_icons=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franckies&layout=compact)
 ### Contacts
 <a href="https://www.linkedin.com/in/francesco-semeraro-09b305190/">
