@@ -11,9 +11,6 @@
 <a href="mailto:fk.semeraro@gmail.com">
     <img alt="FS | Gmail" width="50px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
 </a>
-<a href="https://franckies.github.io/">
-    <img alt="FS | Website" width="45px" src="https://ilprincipals.org/wp-content/uploads/2020/05/website-icon.png" />
-</a>
 
 <!--
 **franckies/franckies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
